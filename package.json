@@ -12,5 +12,8 @@
     "@doist/todoist-api-typescript": "^3.0.3",
     "node-fetch": "^3.3.2"
   },
-  "description": ""
+  "description": "",
+  "engines": {
+    "node": ">=26"
+  }
 }
